@@ -3,7 +3,7 @@ This collection describes color differences between plant species including the 
 
 
 | Species  | Effected structure | Color difference | Molecular Mechanism | Reference |
-| ------------- | ------------- |  ------------- | ------------- |
+| -------- | ------------------ |  --------------- | ------------------- | --------- |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
 
