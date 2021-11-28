@@ -10,4 +10,8 @@ This collection describes color differences between plant species including the 
 
 latest update: 28th November 2021
 
+## Contact
+Do you have an additional entry that we should include? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]CoDi)
+
+
 ## References
