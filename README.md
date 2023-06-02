@@ -2,6 +2,7 @@
 
 
 ## Rename reads in FASTQ file for Trinity assembly ##
+Reads in a FASTQ file downloaded from the SRA are renamed to enable a Trinity assembly that requires a specific read header format.
 
 ```
 PE mode:
@@ -16,7 +17,13 @@ Arguments:
 --rvout     STR   Reverse output FASTQ file
 ```
 
-`--fwin` specifies an input FASTQ file.
+`--fwin` specifies a forward read input FASTQ file.
+
+`--rvin` specifies a reverse read input FASTQ file.
+
+`--fwout` specifies a forward read output FASTQ file.
+
+`--rvout` specifies a reverse read output FASTQ file.
 
 
 ## References
