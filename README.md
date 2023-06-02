@@ -1,10 +1,23 @@
 # Collection of color differences between plant species
-This collection describes color differences between plant species including the molecular basis if known. This resource will be updated as new data sets and studies are released.
 
 
+## Rename reads in FASTQ file for Trinity assembly ##
 
-## Contact
-Do you have an additional entry that we should include? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]CoDi)
+```
+PE mode:
+python2 rename_reads_for_trinity.py --fwin <FILE> --rvin <FILE> --fwout <FILE> --rvout <FILE>
+SE mode:
+python2 rename_reads_for_trinity.py --fwin <FILE> --fwout <FILE>
+
+Arguments:
+--fwin      STR   Forward input FASTQ file
+--rvin      STR   Reverse input FASTQ file
+--fwout     STR   Forward output FASTQ file
+--rvout     STR   Reverse output FASTQ file
+```
+
+`--fwin` specifies an input FASTQ file.
 
 
 ## References
+This repository.
