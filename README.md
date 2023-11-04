@@ -31,4 +31,5 @@ Arguments:
 
 
 ## References
-This repository.
+
+Recinos Marin, F. M. & Pucker, B. (2023). Genetic factors explaining anthocyanin pigmentation differences. bioRxiv 2023.06.05.543820; doi: [10.1101/2023.06.05.543820 ](https://doi.org/10.1101/2023.06.05.543820)
