@@ -1,5 +1,8 @@
 # Collection of color differences between plant species
 
+## Anthocyanin pigmentation loss study collection ##
+Please a [collection of studies reporting anthocyanin losses](https://github.com/bpucker/codi/wiki/Anthocyanin-pigmentation-difference-collection) on the respective wiki page. This table is based on AdditionalFile1 described in our publication, but can be extended over time. Please get in touch if you have a study that should be included here.
+
 
 ## Rename reads in FASTQ file for Trinity assembly ##
 Reads in a FASTQ file downloaded from the SRA are renamed to enable a Trinity assembly that requires a specific read header format.
@@ -32,4 +35,4 @@ Arguments:
 
 ## References
 
-Recinos Marin, F. M. & Pucker, B. (2023). Genetic factors explaining anthocyanin pigmentation differences. bioRxiv 2023.06.05.543820; doi: [10.1101/2023.06.05.543820 ](https://doi.org/10.1101/2023.06.05.543820)
+Recinos Marin, F. M. & Pucker, B. (2024). Genetic factors explaining anthocyanin pigmentation differences. bioRxiv 2023.06.05.543820; doi: [10.1101/2023.06.05.543820 ](https://doi.org/10.1101/2023.06.05.543820)
